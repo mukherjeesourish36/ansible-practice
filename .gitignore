@@ -6,7 +6,8 @@
 *.tfstate.*
 
 # Lock files
-.terraform.lock.hcl
+.terraform.lock.hclterra-key-ansible.pub
+
 
 # Keys
 *.pem
@@ -14,4 +15,3 @@
 *.key
 providers.tf
 terra-key-ansible
-terra-key-ansible.pub
